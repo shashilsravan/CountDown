@@ -37,7 +37,7 @@ let tempYear = tempDate.getFullYear();
 let tempMonth = tempDate.getMonth();
 let tempDay = tempDate.getDate();
 
-const futureDate = new Date(2020, 7, 25, 12, 0, 0);
+const futureDate = new Date(2020, 8, 2, 17, 0, 0);
 const year = futureDate.getFullYear();
 const hours = futureDate.getHours();
 const minutes = futureDate.getMinutes();
